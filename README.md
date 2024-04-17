@@ -1,6 +1,6 @@
 # Battery design for battery-electric long-haul trucks
 
-This repository provides the source-code to a five-step battery design method for battery-electric long-haul trucks. The method and results are documented in the dissertation by Olaf Teichert entitled "Battery design for battery-electric long-haul trucks". The five steps are: 
+This repository provides the source-code to a five-step battery design method for battery-electric long-haul trucks. The method and results are documented in the dissertation by Olaf Teichert: [Battery design for battery-electric long-haul trucks](https://mediatum.ub.tum.de/?id=1705700). The five steps are: 
   - Cell selection
   - Battery model parametrization and validation
   - Power profile generation
