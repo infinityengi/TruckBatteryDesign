@@ -21,7 +21,7 @@ class Consumption():
         #Load inputs
         self.p_vw = pd.read_csv("inputs/payload.csv") #payload distribution
         self.cycle_longhaul = pd.read_csv("inputs/drivingcycles/LongHaul.vdri") #VECTO longhaul driving cycle
-        self.cycle_regional = pd.read_csv("inputs/drivingcycles/Regionaldelivery.vdri") #VECTO regional driving cycle
+        self.cycle_regional = pd.read_csv("inputs/drivingcycles/RegionalDelivery.vdri") #VECTO regional driving cycle
         self.cycle_urban = pd.read_csv("inputs/drivingcycles/UrbanDelivery.vdri") #VECTO urban driving cycle
         
         #Define vehicle parameters for simulation
